@@ -34,4 +34,16 @@ These instructions will help you understand how to use the code provided and run
 
     The program will prompt you to enter an infix expression. Enter a valid infix expression (e.g., `A+B*C`).
 
+4. **View the postfix expression:**
 
+    The program will output the corresponding postfix expression.
+
+## Example
+
+```sh
+Enter an Infix Expression:
+A+B*C
+
+INFIX EXPRESSION: A+B*C
+
+POSTFIX EXPRESSION: ABC*+
