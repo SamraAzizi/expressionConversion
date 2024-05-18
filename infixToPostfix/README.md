@@ -26,3 +26,12 @@ These instructions will help you understand how to use the code provided and run
 
     After compiling, run the executable with the following command:
 
+    ```sh
+    ./InfixToPostfix
+    ```
+
+3. **Input the infix expression:**
+
+    The program will prompt you to enter an infix expression. Enter a valid infix expression (e.g., `A+B*C`).
+
+
