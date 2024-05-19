@@ -21,3 +21,12 @@ These instructions will help you understand how to use the code provided and run
 
     or simply download the code and save it to your local machine.
 
+2. **Open the project in Visual Studio Code:**
+
+    Open Visual Studio Code and navigate to the directory where the source code is saved. Open this directory.
+
+### Running the Program
+
+1. **Compile the code:**
+
+    Open a terminal in Visual Studio Code and run the following command to compile the code:
