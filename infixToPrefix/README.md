@@ -30,3 +30,15 @@ These instructions will help you understand how to use the code provided and run
 1. **Compile the code:**
 
     Open a terminal in Visual Studio Code and run the following command to compile the code:
+
+    ```sh
+    g++ -o InfixToPrefix InfixToPrefix.cpp
+    ```
+
+2. **Run the executable:**
+
+    After compiling, run the executable with the following command:
+
+    ```sh
+    ./InfixToPrefix
+    ```
