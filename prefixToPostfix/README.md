@@ -6,4 +6,13 @@ This C++ program converts a prefix expression (e.g., `*+ABC`) into a postfix exp
 
 These instructions will guide you on using the provided code and running it locally on your machine.
 
+### Prerequisites
 
+- C++ compiler (e.g., g++, clang++)
+- Development environment (e.g., Visual Studio Code)
+
+### Running the Program
+
+1. **Compile the code:**
+
+    Open the terminal in Visual Studio Code and navigate to the directory containing the code file (`main.cpp`). Compile the code using the following command:
